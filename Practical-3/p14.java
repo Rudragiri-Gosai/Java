@@ -12,7 +12,6 @@ class Circle extends Shape {
         numberOfSides = 0;
     }
 
-    @Override
     double calculateArea() {
         return Math.PI * radius * radius;
     }
