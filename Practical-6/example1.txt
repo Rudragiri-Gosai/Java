@@ -1,0 +1,2 @@
+This is the initial content of the file.
+This is the modified content of the file.
