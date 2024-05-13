@@ -45,7 +45,7 @@ class Person {
 public class p10 {
 
     public static void main(String[] args) {
-        Person person = new Person("Bhavya", 17, "ABC XYZ");
+        Person person = new Person("Rudra", 17, "ABC XYZ");
         
         person.introduce();
     }
