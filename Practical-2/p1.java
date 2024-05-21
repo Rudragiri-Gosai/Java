@@ -1,4 +1,4 @@
-class p1
+class Add
 {
     Add(int a,int b)
     {
